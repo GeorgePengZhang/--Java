@@ -69,36 +69,36 @@
 
 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
-- 简单工厂模式(Simple Factory Pattern)
+- [简单工厂模式(Simple Factory Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
 
-- 工厂方法模式(Factory Method Pattern)
+- [工厂方法模式(Factory Method Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
 
-- 抽象工厂模式(Abstract Factory Pattern)
+- [抽象工厂模式(Abstract Factory Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
 
-- 单例模式(Singleton Pattern)
+- [单例模式(Singleton Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
-- 原型模式(Prototype Pattern)
+- [原型模式(Prototype Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
 
-- 建造者模式(Builder Pattern)
+- [建造者模式(Builder Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
 
 ### 结构型模式(Structural Patterns)
 
 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
-- 适配器模式(Adapter Pattern)
+- [适配器模式(Adapter Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-- 桥接模式(Bridge Pattern)
+- [桥接模式(Bridge Pattern)](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)
 
-- 组合模式（Composite Pattern）
+- [组合模式（Composite Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)
 
-- 装饰器模式（Decorator Pattern）
+- [装饰器模式（Decorator Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.md)
 
-- 外观模式（Facade Pattern）
+- [外观模式（Facade Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 
-- 享元模式（Flyweight Pattern）
+- [享元模式（Flyweight Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
 
-- 代理模式（Proxy Pattern）
+- [代理模式（Proxy Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 
 
 
@@ -106,27 +106,27 @@
 
 这些设计模式特别关注对象之间的通信。
 
-- 责任链模式（Chain of Responsibility Pattern）
+- [责任链模式（Chain of Responsibility Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 
-- 命令模式（Command Pattern）
+- [命令模式（Command Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
 
-- 解释器模式（Interpreter Pattern）
+- [解释器模式（Interpreter Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-- 迭代器模式（Iterator Pattern）
+- [迭代器模式（Iterator Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-- 中介者模式（Mediator Pattern）
+- [中介者模式（Mediator Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-- 备忘录模式（Memento Pattern）
+- [备忘录模式（Memento Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 
-- 观察者模式（Observer Pattern）
+- [观察者模式（Observer Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-- 状态模式（State Pattern）
+- [状态模式（State Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
 
-- 策略模式（Strategy Pattern）
+- [策略模式（Strategy Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 
-- 模板方法模式（Template Method Pattern）
+- [模板方法模式（Template Method Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
 
-- 访问者模式（Visitor Pattern）
+- [访问者模式（Visitor Pattern）](https://github.com/GeorgePengZhang/DesignPattern-Java/blob/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
 
 
